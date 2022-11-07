@@ -63,3 +63,4 @@ print('Terminando problema')
 #si quiero volver al ultimo, git checkout master y bye, vuelvo a la principio
 
 #si ahora lo que quiero es que lo q hice en una tarea, q me salio de 10, se me agregue al master
+#bueno me cambio a mi otra rama TAREA, creo mi archivo persona esto aquello, y ahora como funciono perfecto lo tengo q pasar a master para q entre en operacion
