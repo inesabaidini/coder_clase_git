@@ -60,3 +60,6 @@ print('Terminando problema')
 
 
 #Si me quiero mover al commit anterior, git checkout y le copio los primeros 7 caracteres del hash
+#si quiero volver al ultimo, git checkout master y bye, vuelvo a la principio
+
+#si ahora lo que quiero es que lo q hice en una tarea, q me salio de 10, se me agregue al master
