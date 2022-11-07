@@ -52,3 +52,11 @@ print('Terminando problema')
 #Y pruebo hacer cambios, para ver que el documento que tenía en la main no se modifica pero se crea otro igual en la pruebas_random donde se van quedando los cambios
 
 #FLASHERÍSIMO HERMANO, si me vuelvo al checkout main se me pierde todo q loco
+
+#git branch -D (rama que quiero borrar) y me la borra toda a la re verga
+#git log --oneline me muestra de forma más resumida los cambios
+
+
+
+
+#Si me quiero mover al commit anterior, git checkout y le copio los primeros 7 caracteres del hash
