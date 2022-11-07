@@ -29,3 +29,8 @@ res = 2 + 3
 #git status me va a decir q cambios hubieron dentro de la carpeta donde se encuentra el repositorio.
 
 #hasta acá solo cree eel repositorio, pero mi archivo sigue en el working directory. Lo tengo que pasar los cambios al staging area, donde se anotaran los cambios
+#comando: git add (nombre de mi archivo.py)
+#acá me va a mostrar que hay cambios para ser agregados, porque todavía no se me guarda nada. Para moverlo al repositorio el comando es:
+#git commit
+
+print('Terminando problema')
